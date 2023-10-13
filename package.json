@@ -1,0 +1,11 @@
+{
+  "name": "forkiy",
+  "version": "1.0.0",
+  "description": "Recipe app",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "sevi",
+  "license": "ISC"
+}
