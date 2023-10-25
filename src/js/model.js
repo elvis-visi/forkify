@@ -32,6 +32,8 @@ export const loadRecipe = async function (id) {
 
     console.log(state.recipe);
   } catch (err) {
-    console.error(`${err} model visi`);
+    // console.error(`${err} model visi`);
+    throw err;
+    //throw it to the controller?
   }
 };

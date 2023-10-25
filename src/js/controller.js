@@ -28,7 +28,10 @@ const controlRecipes = async function () {
 
     // console.log(res, data);
   } catch (err) {
-    console.error(err);
+    recipeView.renderError();
+
+    //handle the error thrown by the model, update the view
+    //so we need a method in recipeView where we can display the error
   }
 };
 
