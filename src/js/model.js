@@ -8,6 +8,10 @@ import { getJSON } from './helpers';
 
 export const state = {
   recipe: {},
+  search: {
+    query: '',
+    results: [],
+  },
 };
 
 //1. loading the recipe
@@ -15,7 +19,7 @@ export const state = {
 
 export const loadRecipe = async function (id) {
   try {
-    const data = await getJSON(`${API_URL}/${id}`);
+    const data = await getJSON(`${API_URL}${id}`);
 
     //Format the data -> create new object
     const { recipe } = data.data;
@@ -35,5 +39,24 @@ export const loadRecipe = async function (id) {
     // console.error(`${err} model visi`);
     throw err;
     //throw it to the controller?
+  }
+};
+
+export const loadSearchResults = async function (query) {
+  try {
+    state.search.query = query;
+    const data = await getJSON(`${API_URL}?search=${query}`);
+    console.log(`results: `, data);
+
+    state.search.results = data.data.recipes.map(rec => {
+      return {
+        id: rec.id,
+        title: rec.title,
+        publisher: rec.publisher,
+        image: rec.image_url,
+      };
+    });
+  } catch (err) {
+    throw err;
   }
 };
