@@ -27,12 +27,12 @@ export default class View {
 
     const curElements = Array.from(this._parentElement.querySelectorAll('*'));
     //we can compare the virtual DOM to the actual DOM displaying on the page
-    console.log(curElements);
-    console.log(newElements);
+    // console.log(curElements);
+    // console.log(newElements);
 
     newElements.forEach((newEl, i) => {
       const curEl = curElements[i];
-      console.log(curEl, newEl.isEqualNode(curEl));
+      // console.log(curEl, newEl.isEqualNode(curEl));
 
       //Updates change TEXT
       //we want to replace only text ->
