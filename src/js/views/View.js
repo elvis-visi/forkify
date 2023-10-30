@@ -13,6 +13,48 @@ export default class View {
     this._parentElement.insertAdjacentHTML('afterbegin', markup);
   }
 
+  update(data) {
+    this._data = data;
+    const newMarkup = this._generateMarkup();
+    //we want to create new markup, but not render it
+    //we want to compare it to the old html, and then only change text and
+    //attributes that changed from the old ot the new version
+    //markup is a string -> hard to compare, so we will convert it to a DOM object
+
+    //this will become like a virtual DOM,  that doesn't live on the page, but it lives on our memory
+    const newDOM = document.createRange().createContextualFragment(newMarkup);
+    const newElements = Array.from(newDOM.querySelectorAll('*'));
+
+    const curElements = Array.from(this._parentElement.querySelectorAll('*'));
+    //we can compare the virtual DOM to the actual DOM displaying on the page
+    console.log(curElements);
+    console.log(newElements);
+
+    newElements.forEach((newEl, i) => {
+      const curEl = curElements[i];
+      console.log(curEl, newEl.isEqualNode(curEl));
+
+      //Updates change TEXT
+      //we want to replace only text ->
+      if (
+        !newEl.isEqualNode(curEl) &&
+        newEl.firstChild?.nodeValue.trim() !== ''
+      ) {
+        // console.log('dddd', newEl.firstChild.nodeValue.trim());
+        curEl.textContent = newEl.textContent;
+      }
+      //Updates change ATTRIBUTES
+      //change attributes only when newEL !== oldEl
+      if (!newEl.isEqualNode(curEl)) {
+        // console.log(newEl.attributes);
+        // console.log(Array.from(newEl.attributes));
+        Array.from(newEl.attributes).forEach(attr =>
+          curEl.setAttribute(attr.name, attr.value)
+        );
+      }
+    });
+  }
+
   _clear() {
     this._parentElement.innerHTML = '';
   }
