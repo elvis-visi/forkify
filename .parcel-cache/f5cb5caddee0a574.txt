@@ -1,4 +1,4 @@
-9559
+9560
 52C:\Users\sevi\Desktop\forkify\node_modules\@mischnic133417569248508865 1
 76C:\Users\sevi\Desktop\forkify\node_modules\core-js\features\instance\push.js133417784136105117 0
 63C:\Users\sevi\Desktop\forkify\node_modules\micromatch\README.md133417569257345657 0
@@ -46,7 +46,7 @@
 68C:\Users\sevi\Desktop\forkify\node_modules\lines-and-columns\LICENSE133417569255597987 0
 80C:\Users\sevi\Desktop\forkify\node_modules\caniuse-lite\data\features\css-all.js133417569270910944 0
 84C:\Users\sevi\Desktop\forkify\node_modules\core-js\actual\typed-array\int32-array.js133417784128108946 0
-34C:\Users\sevi\Desktop\forkify\dist133432252164763508 1
+34C:\Users\sevi\Desktop\forkify\dist133432287945832281 1
 41C:\Users\sevi\Desktop\forkify\.prettierrc133416961664797873 0
 89C:\Users\sevi\Desktop\forkify\node_modules\csso\node_modules\css-tree\lib\utils\string.js133417569274026010 0
 80C:\Users\sevi\Desktop\forkify\node_modules\core-js\internals\number-is-finite.js133417784134154181 0
@@ -112,6 +112,12 @@
 65C:\Users\sevi\Desktop\forkify\node_modules\json5\lib\unicode.d.ts133417569262801798 0
 62C:\Users\sevi\Desktop\forkify\node_modules\type-fest\readme.md133417569256865673 0
 82C:\Users\sevi\Desktop\forkify\node_modules\@swc\helpers\src\_non_iterable_rest.mjs133417569280761468 0
+94C:\Users\sevi\Desktop\forkify\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_copy.1133417569263471810 0
+69C:\Users\sevi\Desktop\forkify\node_modules\msgpackr\dist\node.cjs.map133417569266336511 0
+102C:\Users\sevi\Desktop\forkify\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\css\units.json133417569263807060 0
+59C:\Users\sevi\Desktop\forkify\src\js\views\addRecipeView.js133432287912741795 0
+97C:\Users\sevi\Desktop\forkify\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Comment.cjs133417569260920186 0
+65C:\Users\sevi\Desktop\forkify\node_modules\normalize-path\LICENSE133417569812292922 0
 42C:\Users\sevi\Desktop\forkify\node_modules133426434524089579 1
 92C:\Users\sevi\Desktop\forkify\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\crypto.c133417569264517053 0
 115C:\Users\sevi\Desktop\forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\convertor\create.js133417569262941869 0
@@ -223,7 +229,7 @@
 71C:\Users\sevi\Desktop\forkify\node_modules\core-js\full\map\includes.js133417784124742002 0
 72C:\Users\sevi\Desktop\forkify\node_modules\core-js\full\instance\some.js133417784140695770 0
 46C:\Users\sevi\Desktop\forkify\src\js\config.js133428953994852613 0
-50C:\Users\sevi\Desktop\forkify\src\js\controller.js133431388992563381 0
+50C:\Users\sevi\Desktop\forkify\src\js\controller.js133432287942068978 0
 65C:\Users\sevi\Desktop\forkify\node_modules\parent-module\index.js133417569256133256 0
 75C:\Users\sevi\Desktop\forkify\node_modules\css-what\lib\commonjs\index.d.ts133417569262686654 0
 75C:\Users\sevi\Desktop\forkify\node_modules\core-js\full\string\fontcolor.js133417784120719534 0
@@ -247,7 +253,7 @@
 72C:\Users\sevi\Desktop\forkify\node_modules\core-js\full\instance\flat.js133417784120461866 0
 61C:\Users\sevi\Desktop\forkify\node_modules\parse-json\license133417569255628081 0
 48C:\Users\sevi\Desktop\forkify\node_modules\@lmdb133426434524119667 1
-45C:\Users\sevi\Desktop\forkify\src\js\model.js133432252217609904 0
+45C:\Users\sevi\Desktop\forkify\src\js\model.js133432287961071691 0
 79C:\Users\sevi\Desktop\forkify\node_modules\core-js\actual\string\starts-with.js133417784141603825 0
 85C:\Users\sevi\Desktop\forkify\node_modules\core-js\modules\esnext.set.is-subset-of.js133417784116204260 0
 76C:\Users\sevi\Desktop\forkify\node_modules\core-js\stable\aggregate-error.js133417784103631097 0
@@ -259,7 +265,7 @@
 73C:\Users\sevi\Desktop\forkify\node_modules\core-js\stable\regexp\flags.js133417784120100371 0
 115C:\Users\sevi\Desktop\forkify\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeOffCanvasPaths.js133417569266791693 0
 91C:\Users\sevi\Desktop\forkify\node_modules\csso\cjs\restructure\prepare\processSelector.cjs133417569264297040 0
-42C:\Users\sevi\Desktop\forkify\src\js\views133431391948231238 1
+42C:\Users\sevi\Desktop\forkify\src\js\views133432264832542070 1
 114C:\Users\sevi\Desktop\forkify\node_modules\css-select\node_modules\entities\lib\esm\generated\decode-data-xml.d.ts133417569267011789 0
 83C:\Users\sevi\Desktop\forkify\node_modules\caniuse-lite\data\features\fullscreen.js133417569277027185 0
 52C:\Users\sevi\Desktop\forkify\node_modules\callsites133417569257395647 1
@@ -281,7 +287,7 @@
 81C:\Users\sevi\Desktop\forkify\node_modules\core-js\actual\number\virtual\index.js133417784125516901 0
 65C:\Users\sevi\Desktop\forkify\node_modules\lru-cache\package.json133417569256603278 0
 80C:\Users\sevi\Desktop\forkify\node_modules\core-js\modules\esnext.array.group.js133417784114387146 0
-59C:\Users\sevi\Desktop\forkify\src\js\views\bookmarksView.js133432252097704886 0
+59C:\Users\sevi\Desktop\forkify\src\js\views\bookmarksView.js133432287931563717 0
 104C:\Users\sevi\Desktop\forkify\node_modules\csso\node_modules\css-tree\cjs\syntax\function\expression.cjs133417569265225407 0
 99C:\Users\sevi\Desktop\forkify\node_modules\@parcel\core\test\fixtures\invalid-distpath\package.json133417569335637442 0
 88C:\Users\sevi\Desktop\forkify\node_modules\caniuse-lite\data\features\payment-request.js133417569282614904 0
@@ -335,17 +341,6 @@
 79C:\Users\sevi\Desktop\forkify\node_modules\core-js\actual\instance\to-sorted.js133417784144745913 0
 79C:\Users\sevi\Desktop\forkify\node_modules\core-js\es\array\virtual\iterator.js133417784130683827 0
 49C:\Users\sevi\Desktop\forkify\src\img\favicon.png133416961665106320 0
-66C:\Users\sevi\Desktop\forkify\node_modules\js-yaml\lib\type\map.js133417569262941869 0
-96C:\Users\sevi\Desktop\forkify\node_modules\@parcel\optimizer-svgo\node_modules\svgo\package.json133417569268686722 0
-60C:\Users\sevi\Desktop\forkify\node_modules\lru-cache\LICENSE133417569255577997 0
-56C:\Users\sevi\Desktop\forkify\node_modules\color-convert133417569258316963 1
-82C:\Users\sevi\Desktop\forkify\node_modules\core-js\full\object\set-prototype-of.js133417784139283148 0
-71C:\Users\sevi\Desktop\forkify\node_modules\csso\cjs\restructure\prepare133417569264707365 1
-58C:\Users\sevi\Desktop\forkify\node_modules\semver\index.js133417569262546519 0
-74C:\Users\sevi\Desktop\forkify\node_modules\core-js\features\weak-map\of.js133417784134604617 0
-84C:\Users\sevi\Desktop\forkify\node_modules\caniuse-lite\data\features\css-nesting.js133417569273285182 0
-87C:\Users\sevi\Desktop\forkify\node_modules\caniuse-lite\data\features\iframe-sandbox.js133417569278282308 0
-104C:\Users\sevi\Desktop\forkify\node_modules\csso\node_modules\css-tree\cjs\syntax\node\index-generate.cjs133417569266516527 0
 86C:\Users\sevi\Desktop\forkify\node_modules\caniuse-lite\data\features\server-timing.js133417569284005360 0
 50C:\Users\sevi\Desktop\forkify\node_modules\is-json133417569258106964 1
 47C:\Users\sevi\Desktop\forkify\node_modules\svgo133417569268307076 1
@@ -421,6 +416,17 @@
 79C:\Users\sevi\Desktop\forkify\node_modules\css-what\lib\commonjs\types.d.ts.map133417569260790196 0
 55C:\Users\sevi\Desktop\forkify\node_modules\caniuse-lite133417569288628116 1
 70C:\Users\sevi\Desktop\forkify\node_modules\weak-lru-cache\package.json133417569258526997 0
+66C:\Users\sevi\Desktop\forkify\node_modules\js-yaml\lib\type\map.js133417569262941869 0
+96C:\Users\sevi\Desktop\forkify\node_modules\@parcel\optimizer-svgo\node_modules\svgo\package.json133417569268686722 0
+60C:\Users\sevi\Desktop\forkify\node_modules\lru-cache\LICENSE133417569255577997 0
+56C:\Users\sevi\Desktop\forkify\node_modules\color-convert133417569258316963 1
+82C:\Users\sevi\Desktop\forkify\node_modules\core-js\full\object\set-prototype-of.js133417784139283148 0
+71C:\Users\sevi\Desktop\forkify\node_modules\csso\cjs\restructure\prepare133417569264707365 1
+58C:\Users\sevi\Desktop\forkify\node_modules\semver\index.js133417569262546519 0
+74C:\Users\sevi\Desktop\forkify\node_modules\core-js\features\weak-map\of.js133417784134604617 0
+84C:\Users\sevi\Desktop\forkify\node_modules\caniuse-lite\data\features\css-nesting.js133417569273285182 0
+87C:\Users\sevi\Desktop\forkify\node_modules\caniuse-lite\data\features\iframe-sandbox.js133417569278282308 0
+104C:\Users\sevi\Desktop\forkify\node_modules\csso\node_modules\css-tree\cjs\syntax\node\index-generate.cjs133417569266516527 0
 59C:\Users\sevi\Desktop\forkify\node_modules\lmdb\src\dbi.cpp133417569269322455 0
 62C:\Users\sevi\Desktop\forkify\node_modules\js-yaml\lib\type.js133417569264287069 0
 74C:\Users\sevi\Desktop\forkify\node_modules\caniuse-lite\data\regions\SG.js133417569284105373 0
@@ -639,9 +645,6 @@
 81C:\Users\sevi\Desktop\forkify\node_modules\core-js\features\instance\pad-start.js133417784135174444 0
 77C:\Users\sevi\Desktop\forkify\node_modules\core-js\stable\structured-clone.js133417784142324646 0
 71C:\Users\sevi\Desktop\forkify\node_modules\sass\types\value\number.d.ts133417569813922454 0
-65C:\Users\sevi\Desktop\forkify\node_modules\core-js\stable\btoa.js133417784106796932 0
-74C:\Users\sevi\Desktop\forkify\node_modules\sass\types\legacy\importer.d.ts133417569813538193 0
-92C:\Users\sevi\Desktop\forkify\node_modules\csso\node_modules\css-tree\lib\lexer\structure.js133417569274055984 0
 85C:\Users\sevi\Desktop\forkify\node_modules\core-js\stable\string\virtual\fontcolor.js133417784120752018 0
 50C:\Users\sevi\Desktop\forkify\node_modules\is-glob133417569256965652 1
 74C:\Users\sevi\Desktop\forkify\node_modules\caniuse-lite\data\regions\EG.js133417569275805513 0
@@ -1857,7 +1860,7 @@
 81C:\Users\sevi\Desktop\forkify\node_modules\css-tree\lib\syntax\node\WhiteSpace.js133417569274756060 0
 74C:\Users\sevi\Desktop\forkify\node_modules\core-js\es\reflect\construct.js133417784108032097 0
 66C:\Users\sevi\Desktop\forkify\node_modules\semver\ranges\subset.js133417569265735480 0
-55C:\Users\sevi\Desktop\forkify\dist\favicon.8b2f57bf.png133432250865097416 0
+55C:\Users\sevi\Desktop\forkify\dist\favicon.8b2f57bf.png133432269562291569 0
 73C:\Users\sevi\Desktop\forkify\node_modules\css-select\lib\attributes.d.ts133417569267927057 0
 72C:\Users\sevi\Desktop\forkify\node_modules\core-js\full\composite-key.js133417784107712101 0
 74C:\Users\sevi\Desktop\forkify\node_modules\semver\ranges\to-comparators.js133417569265806525 0
@@ -1985,6 +1988,9 @@
 88C:\Users\sevi\Desktop\forkify\node_modules\@parcel\bundler-default\lib\DefaultBundler.js133417569337328424 0
 75C:\Users\sevi\Desktop\forkify\node_modules\sass\types\legacy\exception.d.ts133417569813488185 0
 69C:\Users\sevi\Desktop\forkify\node_modules\@parcel\workers\lib\bus.js133417569305785330 0
+65C:\Users\sevi\Desktop\forkify\node_modules\core-js\stable\btoa.js133417784106796932 0
+74C:\Users\sevi\Desktop\forkify\node_modules\sass\types\legacy\importer.d.ts133417569813538193 0
+92C:\Users\sevi\Desktop\forkify\node_modules\csso\node_modules\css-tree\lib\lexer\structure.js133417569274055984 0
 74C:\Users\sevi\Desktop\forkify\node_modules\caniuse-lite\data\regions\HT.js133417569278102317 0
 92C:\Users\sevi\Desktop\forkify\node_modules\csso\node_modules\css-tree\lib\syntax\node\Raw.js133417569273845986 0
 93C:\Users\sevi\Desktop\forkify\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\COPYRIGHT133417569258376970 0
@@ -2015,7 +2021,6 @@
 85C:\Users\sevi\Desktop\forkify\node_modules\@parcel\node-resolver-core\lib\builtins.js133417569265135380 0
 85C:\Users\sevi\Desktop\forkify\node_modules\core-js\modules\esnext.function.un-this.js133417784114847149 0
 65C:\Users\sevi\Desktop\forkify\node_modules\resolve-from\readme.md133417569257065666 0
-105C:\Users\sevi\Desktop\forkify\node_modules\@parcel\package-manager\test\fixtures\has-foo\node_modules\foo133417569325444922 1
 71C:\Users\sevi\Desktop\forkify\node_modules\core-js\modules\es.escape.js133417784111490955 0
 81C:\Users\sevi\Desktop\forkify\node_modules\core-js\features\array\virtual\flat.js133417784120417350 0
 70C:\Users\sevi\Desktop\forkify\node_modules\regenerator-runtime\LICENSE133417784102552812 0
@@ -2431,10 +2436,6 @@
 84C:\Users\sevi\Desktop\forkify\node_modules\core-js\stable\object\set-prototype-of.js133417784139293180 0
 74C:\Users\sevi\Desktop\forkify\node_modules\caniuse-lite\data\regions\KG.js133417569279593394 0
 73C:\Users\sevi\Desktop\forkify\node_modules\nth-check\lib\esm\parse.js.map133417569262496512 0
-94C:\Users\sevi\Desktop\forkify\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_copy.1133417569263471810 0
-69C:\Users\sevi\Desktop\forkify\node_modules\msgpackr\dist\node.cjs.map133417569266336511 0
-97C:\Users\sevi\Desktop\forkify\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Comment.cjs133417569260920186 0
-65C:\Users\sevi\Desktop\forkify\node_modules\normalize-path\LICENSE133417569812292922 0
 80C:\Users\sevi\Desktop\forkify\node_modules\@swc\helpers\src\_async_generator.mjs133417569279703403 0
 100C:\Users\sevi\Desktop\forkify\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest6.c133417569268636605 0
 70C:\Users\sevi\Desktop\forkify\node_modules\normalize-path\package.json133417569812202928 0
@@ -2558,7 +2559,7 @@
 70C:\Users\sevi\Desktop\forkify\node_modules\core-js\full\error\index.js133417784126842341 0
 68C:\Users\sevi\Desktop\forkify\node_modules\core-js\full\url\index.js133417784127293696 0
 93C:\Users\sevi\Desktop\forkify\node_modules\csso\node_modules\css-tree\cjs\tokenizer\utils.cjs133417569270528389 0
-52C:\Users\sevi\Desktop\forkify\dist\logo.726d37a8.png133432250865917417 0
+52C:\Users\sevi\Desktop\forkify\dist\logo.726d37a8.png133432269562149867 0
 114C:\Users\sevi\Desktop\forkify\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages.ps1133417569348919239 0
 77C:\Users\sevi\Desktop\forkify\node_modules\core-js\features\date\to-string.js133417784146286476 0
 70C:\Users\sevi\Desktop\forkify\node_modules\core-js\actual\math\log2.js133417784131973454 0
@@ -5268,7 +5269,7 @@
 74C:\Users\sevi\Desktop\forkify\node_modules\core-js\proposals\map-upsert.js133417784132422420 0
 79C:\Users\sevi\Desktop\forkify\node_modules\core-js\proposals\math-extensions.js133417784133356376 0
 76C:\Users\sevi\Desktop\forkify\node_modules\core-js\proposals\math-signbit.js133417784133456387 0
-53C:\Users\sevi\Desktop\forkify\dist\index.f7626f62.css133432250865647397 0
+53C:\Users\sevi\Desktop\forkify\dist\index.f7626f62.css133432269562190568 0
 91C:\Users\sevi\Desktop\forkify\node_modules\@swc\helpers\src\_class_private_field_update.mjs133417569280091374 0
 80C:\Users\sevi\Desktop\forkify\node_modules\core-js\modules\es.string.trim-end.js133417784113087433 0
 83C:\Users\sevi\Desktop\forkify\node_modules\core-js\proposals\object-from-entries.js133417784134274232 0
@@ -7406,7 +7407,7 @@
 75C:\Users\sevi\Desktop\forkify\node_modules\core-js\actual\regexp\dot-all.js133417784109988459 0
 73C:\Users\sevi\Desktop\forkify\node_modules\core-js\actual\regexp\flags.js133417784120020400 0
 73C:\Users\sevi\Desktop\forkify\node_modules\core-js\actual\regexp\index.js133417784125546919 0
-53C:\Users\sevi\Desktop\forkify\dist\icons.21bad73c.svg133432250866157413 0
+53C:\Users\sevi\Desktop\forkify\dist\icons.21bad73c.svg133432269562079853 0
 74C:\Users\sevi\Desktop\forkify\node_modules\core-js\actual\regexp\search.js133417784138700414 0
 70C:\Users\sevi\Desktop\forkify\node_modules\core-js\actual\object\is.js133417784130222222 0
 73C:\Users\sevi\Desktop\forkify\node_modules\core-js\actual\regexp\split.js133417784141195503 0
@@ -7984,7 +7985,7 @@
 76C:\Users\sevi\Desktop\forkify\node_modules\caniuse-lite\data\features\ime.js133417569278392299 0
 103C:\Users\sevi\Desktop\forkify\node_modules\caniuse-lite\data\features\img-naturalwidth-naturalheight.js133417569278412300 0
 84C:\Users\sevi\Desktop\forkify\node_modules\caniuse-lite\data\features\import-maps.js133417569278422295 0
-45C:\Users\sevi\Desktop\forkify\dist\index.html133432250866107439 0
+45C:\Users\sevi\Desktop\forkify\dist\index.html133432269562572134 0
 80C:\Users\sevi\Desktop\forkify\node_modules\caniuse-lite\data\features\imports.js133417569278452335 0
 85C:\Users\sevi\Desktop\forkify\node_modules\@parcel\markdown-ansi\src\markdown-ansi.js133417569277217094 0
 95C:\Users\sevi\Desktop\forkify\node_modules\caniuse-lite\data\features\indeterminate-checkbox.js133417569278502339 0
@@ -8717,6 +8718,7 @@
 112C:\Users\sevi\Desktop\forkify\node_modules\@parcel\package-manager\test\fixtures\packages\peers-2.0\package.json133417569325588173 0
 100C:\Users\sevi\Desktop\forkify\node_modules\@parcel\package-manager\test\fixtures\packages\a\index.js133417569324716409 0
 101C:\Users\sevi\Desktop\forkify\node_modules\@parcel\package-manager\test\fixtures\has-foo\node_modules133417569324686281 1
+105C:\Users\sevi\Desktop\forkify\node_modules\@parcel\package-manager\test\fixtures\has-foo\node_modules\foo133417569325444922 1
 118C:\Users\sevi\Desktop\forkify\node_modules\@parcel\package-manager\test\fixtures\has-foo\node_modules\foo\package.json133417569325454940 0
 117C:\Users\sevi\Desktop\forkify\node_modules\@parcel\package-manager\test\fixtures\has-a-not-yet-installed\package.json133417569325434920 0
 99C:\Users\sevi\Desktop\forkify\node_modules\@parcel\package-manager\test\fixtures\empty\package.json133417569325384977 0
@@ -8819,7 +8821,6 @@
 113C:\Users\sevi\Desktop\forkify\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\css\selectors.schema.json133417569263071811 0
 102C:\Users\sevi\Desktop\forkify\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\css\types.json133417569263591792 0
 109C:\Users\sevi\Desktop\forkify\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\css\types.schema.json133417569263701888 0
-102C:\Users\sevi\Desktop\forkify\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\css\units.json133417569263807060 0
 92C:\Users\sevi\Desktop\forkify\node_modules\@parcel\optimizer-svgo\node_modules\.bin\svgo.cmd133417569348919239 0
 108C:\Users\sevi\Desktop\forkify\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\api\inheritance.json133417569259958670 0
 115C:\Users\sevi\Desktop\forkify\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\api\inheritance.schema.json133417569260118672 0
@@ -9553,8 +9554,8 @@
 74C:\Users\sevi\Desktop\forkify\node_modules\.bin\update-browserslist-db.ps1133417569348939259 0
 54C:\Users\sevi\Desktop\forkify\dist\forkify.3464ddca.js133417569848580044 0
 58C:\Users\sevi\Desktop\forkify\dist\forkify.3464ddca.js.map133417569848610059 0
-53C:\Users\sevi\Desktop\forkify\dist\icons.dfd7a6db.svg133432250866477418 0
+53C:\Users\sevi\Desktop\forkify\dist\icons.dfd7a6db.svg133432287945619562 0
 56C:\Users\sevi\Desktop\forkify\dist\index.62406edb.js.map133417569848670451 0
-52C:\Users\sevi\Desktop\forkify\dist\index.e37f48ea.js133432252164693502 0
-56C:\Users\sevi\Desktop\forkify\dist\index.e37f48ea.js.map133432252164743514 0
-57C:\Users\sevi\Desktop\forkify\dist\index.f7626f62.css.map133432250865717419 0
+52C:\Users\sevi\Desktop\forkify\dist\index.e37f48ea.js133432287945792290 0
+56C:\Users\sevi\Desktop\forkify\dist\index.e37f48ea.js.map133432287945822331 0
+57C:\Users\sevi\Desktop\forkify\dist\index.f7626f62.css.map133432269562220604 0
