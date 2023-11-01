@@ -26,3 +26,27 @@ export const getJSON = async function (url) {
     throw err; // the promise returned by getJSON will reject
   }
 };
+
+export const sendJSON = async function (url, uploadData) {
+  try {
+    //as soon as either of the promises rejects or fullfils, that promise will become the winner
+    //if timeout wins, we will have a rejected promise which then gets caught
+
+    const fetchPro = fetch(url, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify(uploadData),
+    });
+
+    const res = await Promise.race([fetchPro, timeout(TIMEOUT_SEC)]);
+    //convert to JSON
+    const data = await res.json();
+
+    if (!res.ok) throw new Error(`${data.message} ${res.status}`);
+    return data; //this wil be the resolved value of the returned promise by this async function
+  } catch (err) {
+    throw err; // the promise returned by getJSON will reject
+  }
+};
